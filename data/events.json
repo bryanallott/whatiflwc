@@ -1,0 +1,224 @@
+[
+  {
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "name": "100m Manikin Tow",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "name": "100m Rescue Medley",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "name": "200m Obstacle",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "name": "200m Super Lifesaver",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "name": "50m Manikin Carry",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
+    "event_id": "line_throw",
+    "name": "Line Throw",
+    "simulated": false
+  },
+  {
+    "division": "Open Men",
+    "event_id": "relay_100m_manikin",
+    "name": "100m Manikin Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Men",
+    "event_id": "relay_4x25m_manikin",
+    "name": "4x25m Manikin Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Men",
+    "event_id": "relay_4x50m_medley",
+    "name": "4x50m Medley Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Men",
+    "event_id": "relay_4x50m_obstacle",
+    "name": "4x50m Obstacle Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "name": "100m Manikin Carry with Fins",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "name": "100m Manikin Tow with Fins",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "name": "100m Rescue Medley",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "name": "200m Obstacle",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "name": "200m Super Lifesaver",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "name": "50m Manikin Carry",
+    "simulated": true
+  },
+  {
+    "division": "Open Women",
+    "event_id": "line_throw",
+    "name": "Line Throw",
+    "simulated": false
+  },
+  {
+    "division": "Open Women",
+    "event_id": "relay_4x25m_manikin",
+    "name": "4x25m Manikin Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Women",
+    "event_id": "relay_4x50m_medley",
+    "name": "4x50m Medley Relay",
+    "simulated": false
+  },
+  {
+    "division": "Open Women",
+    "event_id": "relay_4x50m_obstacle",
+    "name": "4x50m Obstacle Relay",
+    "simulated": false
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "100m_manikin_carry_with_fins",
+    "name": "100m Manikin Carry with Fins",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "100m_manikin_tow",
+    "name": "100m Manikin Tow",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "100m_medley",
+    "name": "100m Medley",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "200m_obstacles",
+    "name": "200m Obstacles",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "200m_super_lifesaver",
+    "name": "200m Super Lifesaver",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "50m_manikin_carry",
+    "name": "50m Manikin Carry",
+    "simulated": true
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "line_throw",
+    "name": "Line Throw",
+    "simulated": false
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "relay_4x25m_manikin",
+    "name": "4x25m Manikin Relay",
+    "simulated": false
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "relay_4x50m_medley",
+    "name": "4x50m Medley Relay",
+    "simulated": false
+  },
+  {
+    "division": "Youth Men",
+    "event_id": "relay_4x50m_obstacle",
+    "name": "4x50m Obstacle Relay",
+    "simulated": false
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "name": "100m Manikin Carry with Fins",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "name": "100m Manikin Tow",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "name": "100m Rescue Medley",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "name": "200m Obstacles",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "name": "200m Super Lifesaver",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "50m_manikin_carry",
+    "name": "50m Manikin Carry",
+    "simulated": true
+  },
+  {
+    "division": "Youth Women",
+    "event_id": "line_throw",
+    "name": "Line Throw",
+    "simulated": false
+  }
+]
