@@ -2,15 +2,18 @@
 
 from __future__ import annotations
 from dataclasses import dataclass
+import json
 import math
+from pathlib import Path
 
-POINTS_FINAL  = {1: 20, 2: 19, 3: 18, 4: 17, 5: 16, 6: 15, 7: 14, 8: 13}
-POINTS_BFINAL = {1: 8,  2: 7,  3: 6,  4: 5,  5: 4,  6: 3,  7: 2,  8: 1}
+_scheme = json.loads((Path(__file__).parent / "data" / "points_scheme.json").read_text())
+POINTS_FINAL  = {int(k): v for k, v in _scheme["Final"].items()}
+POINTS_BFINAL = {int(k): v for k, v in _scheme["B Final"].items()}
 
 @dataclass
 class Entry:
     athlete: str
-    country_code: str
+    club_code: str
     time_sec: float       # math.inf for DSQ/DNS/DNF
     is_candidate: bool = False
     prev_round: str | None = None     # "Final" | "B Final" | None
@@ -35,7 +38,7 @@ def simulate_event(real_finalists, real_bfinalists, candidates):
     for i, e in enumerate(new_final, start=1):
         pts = 0 if math.isinf(e.time_sec) else POINTS_FINAL.get(i, 0)
         final_out.append({
-            "rank": i, "athlete": e.athlete, "country_code": e.country_code,
+            "rank": i, "athlete": e.athlete, "club_code": e.club_code,
             "time_sec": e.time_sec, "points": pts,
             "is_candidate": e.is_candidate,
         })
@@ -43,12 +46,12 @@ def simulate_event(real_finalists, real_bfinalists, candidates):
     for i, e in enumerate(new_bfinal, start=1):
         pts = 0 if math.isinf(e.time_sec) else POINTS_BFINAL.get(i, 0)
         bfinal_out.append({
-            "rank": 8 + i, "athlete": e.athlete, "country_code": e.country_code,
+            "rank": 8 + i, "athlete": e.athlete, "club_code": e.club_code,
             "time_sec": e.time_sec, "points": pts,
             "is_candidate": e.is_candidate,
         })
     dropped = [
-        {"athlete": e.athlete, "country_code": e.country_code,
+        {"athlete": e.athlete, "club_code": e.club_code,
          "time_sec": e.time_sec, "prev_round": e.prev_round, "prev_rank": e.prev_rank}
         for e in fell_out if not e.is_candidate
     ]
@@ -61,11 +64,11 @@ def recompute_country_totals(division, baseline_results, simulated_event_outputs
     for r in baseline_results:
         if r["division"] != division: continue
         if r["is_simulated"]: continue
-        cc = r["country_code"]
+        cc = r["club_code"]
         totals[cc] = totals.get(cc, 0) + r["points"]
     # Simulated events: use simulated outputs
     for event_id, sim in simulated_event_outputs.items():
         for entry in sim["final"] + sim["bfinal"]:
-            cc = entry["country_code"]
+            cc = entry["club_code"]
             totals[cc] = totals.get(cc, 0) + entry["points"]
     return totals

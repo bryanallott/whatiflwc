@@ -6,7 +6,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Matthew Pincente",
     "best_time_str": "00m:30s:630ms",
-    "best_time_sec": 30.63
+    "best_time_sec": 30.63,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Bryce_Minderon",
@@ -15,7 +16,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Bryce Minderon",
     "best_time_str": "00m:31s:450ms",
-    "best_time_sec": 31.45
+    "best_time_sec": 31.45,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Fabian_Hermann",
@@ -24,7 +26,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Fabian Hermann",
     "best_time_str": "00m:31s:960ms",
-    "best_time_sec": 31.96
+    "best_time_sec": 31.96,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Nicholas_Pretorius",
@@ -33,7 +36,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Nicholas Pretorius",
     "best_time_str": "00m:32s:760ms",
-    "best_time_sec": 32.76
+    "best_time_sec": 32.76,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Matthew_Brooker",
@@ -42,7 +46,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Matthew Brooker",
     "best_time_str": "00m:32s:790ms",
-    "best_time_sec": 32.79
+    "best_time_sec": 32.79,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Vaclav_Horak",
@@ -51,7 +56,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Vaclav Horak",
     "best_time_str": "00m:33s:080ms",
-    "best_time_sec": 33.08
+    "best_time_sec": 33.08,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Jan-Lukas_Van_der_Westhuizen",
@@ -60,7 +66,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "00m:33s:420ms",
-    "best_time_sec": 33.42
+    "best_time_sec": 33.42,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Lucca_Basson",
@@ -69,7 +76,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Lucca Basson",
     "best_time_str": "00m:33s:540ms",
-    "best_time_sec": 33.54
+    "best_time_sec": 33.54,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Jake_Hutton",
@@ -78,7 +86,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jake Hutton",
     "best_time_str": "00m:33s:880ms",
-    "best_time_sec": 33.88
+    "best_time_sec": 33.88,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Jack_Allott",
@@ -87,7 +96,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jack Allott",
     "best_time_str": "00m:33s:970ms",
-    "best_time_sec": 33.97
+    "best_time_sec": 33.97,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Risei_Takada",
@@ -96,7 +106,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Risei Takada",
     "best_time_str": "00m:34s:400ms",
-    "best_time_sec": 34.4
+    "best_time_sec": 34.4,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::So_Komatsu",
@@ -105,7 +116,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "So Komatsu",
     "best_time_str": "00m:34s:410ms",
-    "best_time_sec": 34.41
+    "best_time_sec": 34.41,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Steven_Waters",
@@ -114,7 +126,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Steven Waters",
     "best_time_str": "00m:34s:460ms",
-    "best_time_sec": 34.46
+    "best_time_sec": 34.46,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Craig_McClymont",
@@ -123,7 +136,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Craig McClymont",
     "best_time_str": "00m:34s:660ms",
-    "best_time_sec": 34.66
+    "best_time_sec": 34.66,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Caleb_Jansen",
@@ -132,7 +146,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Caleb Jansen",
     "best_time_str": "00m:34s:670ms",
-    "best_time_sec": 34.67
+    "best_time_sec": 34.67,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Johan_Moolman",
@@ -141,7 +156,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Johan Moolman",
     "best_time_str": "00m:35s:330ms",
-    "best_time_sec": 35.33
+    "best_time_sec": 35.33,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Troy_McWilliam",
@@ -150,7 +166,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Troy McWilliam",
     "best_time_str": "00m:35s:710ms",
-    "best_time_sec": 35.71
+    "best_time_sec": 35.71,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Liam_Schweitzer",
@@ -159,7 +176,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Liam Schweitzer",
     "best_time_str": "00m:35s:750ms",
-    "best_time_sec": 35.75
+    "best_time_sec": 35.75,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::50m_manikin_carry::Neil_Holtzhausen",
@@ -168,7 +186,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "00m:35s:860ms",
-    "best_time_sec": 35.86
+    "best_time_sec": 35.86,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Matthew_Brooker",
@@ -177,7 +196,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Matthew Brooker",
     "best_time_str": "00m:56s:150ms",
-    "best_time_sec": 56.15
+    "best_time_sec": 56.15,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Johan_Moolman",
@@ -186,7 +206,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Johan Moolman",
     "best_time_str": "00m:58s:030ms",
-    "best_time_sec": 58.03
+    "best_time_sec": 58.03,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Vaclav_Horak",
@@ -195,7 +216,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Vaclav Horak",
     "best_time_str": "00m:58s:810ms",
-    "best_time_sec": 58.81
+    "best_time_sec": 58.81,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Jack_Allott",
@@ -204,7 +226,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Jack Allott",
     "best_time_str": "00m:59s:970ms",
-    "best_time_sec": 59.97
+    "best_time_sec": 59.97,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Jan-Lukas_Van_der_Westhuizen",
@@ -213,7 +236,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "01m:00s:090ms",
-    "best_time_sec": 60.09
+    "best_time_sec": 60.09,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Matthew_Pincente",
@@ -222,7 +246,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Matthew Pincente",
     "best_time_str": "01m:00s:190ms",
-    "best_time_sec": 60.19
+    "best_time_sec": 60.19,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Neil_Holtzhausen",
@@ -231,7 +256,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "01m:00s:210ms",
-    "best_time_sec": 60.21
+    "best_time_sec": 60.21,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Risei_Takada",
@@ -240,7 +266,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Risei Takada",
     "best_time_str": "01m:00s:820ms",
-    "best_time_sec": 60.82
+    "best_time_sec": 60.82,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Steven_Waters",
@@ -249,7 +276,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Steven Waters",
     "best_time_str": "01m:01s:840ms",
-    "best_time_sec": 61.84
+    "best_time_sec": 61.84,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Lucca_Basson",
@@ -258,7 +286,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Lucca Basson",
     "best_time_str": "01m:02s:130ms",
-    "best_time_sec": 62.13
+    "best_time_sec": 62.13,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Liam_Schweitzer",
@@ -267,7 +296,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Liam Schweitzer",
     "best_time_str": "01m:02s:400ms",
-    "best_time_sec": 62.4
+    "best_time_sec": 62.4,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Mathew_Pincente",
@@ -276,7 +306,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Mathew Pincente",
     "best_time_str": "01m:02s:800ms",
-    "best_time_sec": 62.8
+    "best_time_sec": 62.8,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::Christian_van_Heerden",
@@ -285,7 +316,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "Christian van Heerden",
     "best_time_str": "01m:02s:910ms",
-    "best_time_sec": 62.91
+    "best_time_sec": 62.91,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::So_Komatsu",
@@ -294,7 +326,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "So Komatsu",
     "best_time_str": "01m:03s:340ms",
-    "best_time_sec": 63.34
+    "best_time_sec": 63.34,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_tow::AJ_Britz",
@@ -303,7 +336,8 @@
     "event_name": "100m Manikin Tow",
     "athlete": "AJ Britz",
     "best_time_str": "01m:03s:700ms",
-    "best_time_sec": 63.7
+    "best_time_sec": 63.7,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Matthew_Brooker",
@@ -312,7 +346,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Matthew Brooker",
     "best_time_str": "02m:13s:600ms",
-    "best_time_sec": 133.6
+    "best_time_sec": 133.6,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Fabian_Hermann",
@@ -321,7 +356,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Fabian Hermann",
     "best_time_str": "02m:17s:650ms",
-    "best_time_sec": 137.65
+    "best_time_sec": 137.65,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Jack_Allott",
@@ -330,7 +366,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Jack Allott",
     "best_time_str": "02m:21s:430ms",
-    "best_time_sec": 141.43
+    "best_time_sec": 141.43,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Neil_Holtzhausen",
@@ -339,7 +376,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "02m:22s:840ms",
-    "best_time_sec": 142.84
+    "best_time_sec": 142.84,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Johan_Moolman",
@@ -348,7 +386,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Johan Moolman",
     "best_time_str": "02m:22s:990ms",
-    "best_time_sec": 142.99
+    "best_time_sec": 142.99,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::So_Komatsu",
@@ -357,7 +396,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "So Komatsu",
     "best_time_str": "02m:25s:960ms",
-    "best_time_sec": 145.96
+    "best_time_sec": 145.96,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Lucca_Basson",
@@ -366,7 +406,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Lucca Basson",
     "best_time_str": "02m:29s:770ms",
-    "best_time_sec": 149.77
+    "best_time_sec": 149.77,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Migael_Reuven_Van_der_Merwe",
@@ -375,7 +416,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Migael Reuven Van der Merwe",
     "best_time_str": "02m:30s:960ms",
-    "best_time_sec": 150.96
+    "best_time_sec": 150.96,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Steven_Waters",
@@ -384,7 +426,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Steven Waters",
     "best_time_str": "02m:31s:310ms",
-    "best_time_sec": 151.31
+    "best_time_sec": 151.31,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Christian_van_Heerden",
@@ -393,7 +436,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Christian van Heerden",
     "best_time_str": "02m:31s:900ms",
-    "best_time_sec": 151.9
+    "best_time_sec": 151.9,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Jan-Lukas_Van_der_Westhuizen",
@@ -402,7 +446,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "02m:32s:410ms",
-    "best_time_sec": 152.41
+    "best_time_sec": 152.41,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Ben_Brinkmann",
@@ -411,7 +456,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Ben Brinkmann",
     "best_time_str": "02m:34s:420ms",
-    "best_time_sec": 154.42
+    "best_time_sec": 154.42,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Liam_Schweitzer",
@@ -420,7 +466,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Liam Schweitzer",
     "best_time_str": "02m:37s:000ms",
-    "best_time_sec": 157
+    "best_time_sec": 157,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Risei_Takada",
@@ -429,7 +476,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Risei Takada",
     "best_time_str": "02m:37s:300ms",
-    "best_time_sec": 157.3
+    "best_time_sec": 157.3,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Vaclav_Horak",
@@ -438,7 +486,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Vaclav Horak",
     "best_time_str": "02m:37s:810ms",
-    "best_time_sec": 157.81
+    "best_time_sec": 157.81,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Callan_MacIntyre",
@@ -447,7 +496,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Callan MacIntyre",
     "best_time_str": "02m:37s:910ms",
-    "best_time_sec": 157.91
+    "best_time_sec": 157.91,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::AJ_Britz",
@@ -456,7 +506,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "AJ Britz",
     "best_time_str": "02m:40s:080ms",
-    "best_time_sec": 160.08
+    "best_time_sec": 160.08,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_super_lifesaver::Jaydon_Allott",
@@ -465,7 +516,8 @@
     "event_name": "200m Super Lifesaver",
     "athlete": "Jaydon Allott",
     "best_time_str": "02m:40s:590ms",
-    "best_time_sec": 160.59
+    "best_time_sec": 160.59,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Nicholas_Pretorius",
@@ -474,7 +526,8 @@
     "event_name": "100m Medley",
     "athlete": "Nicholas Pretorius",
     "best_time_str": "01m:06s:280ms",
-    "best_time_sec": 66.28
+    "best_time_sec": 66.28,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Bryce_Minderon",
@@ -483,7 +536,8 @@
     "event_name": "100m Medley",
     "athlete": "Bryce Minderon",
     "best_time_str": "01m:06s:420ms",
-    "best_time_sec": 66.42
+    "best_time_sec": 66.42,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Matthew_Pincente",
@@ -492,7 +546,8 @@
     "event_name": "100m Medley",
     "athlete": "Matthew Pincente",
     "best_time_str": "01m:06s:870ms",
-    "best_time_sec": 66.87
+    "best_time_sec": 66.87,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Matthew_Brooker",
@@ -501,7 +556,8 @@
     "event_name": "100m Medley",
     "athlete": "Matthew Brooker",
     "best_time_str": "01m:07s:330ms",
-    "best_time_sec": 67.33
+    "best_time_sec": 67.33,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Jack_Allott",
@@ -510,7 +566,8 @@
     "event_name": "100m Medley",
     "athlete": "Jack Allott",
     "best_time_str": "01m:09s:470ms",
-    "best_time_sec": 69.47
+    "best_time_sec": 69.47,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Johan_Moolman",
@@ -519,7 +576,8 @@
     "event_name": "100m Medley",
     "athlete": "Johan Moolman",
     "best_time_str": "01m:09s:520ms",
-    "best_time_sec": 69.52
+    "best_time_sec": 69.52,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Vaclav_Horak",
@@ -528,7 +586,8 @@
     "event_name": "100m Medley",
     "athlete": "Vaclav Horak",
     "best_time_str": "01m:10s:690ms",
-    "best_time_sec": 70.69
+    "best_time_sec": 70.69,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Lucca_Basson",
@@ -537,7 +596,8 @@
     "event_name": "100m Medley",
     "athlete": "Lucca Basson",
     "best_time_str": "01m:11s:600ms",
-    "best_time_sec": 71.6
+    "best_time_sec": 71.6,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Jan-Lukas_Van_der_Westhuizen",
@@ -546,7 +606,8 @@
     "event_name": "100m Medley",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "01m:11s:850ms",
-    "best_time_sec": 71.85
+    "best_time_sec": 71.85,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Neil_Holtzhausen",
@@ -555,7 +616,8 @@
     "event_name": "100m Medley",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "01m:12s:180ms",
-    "best_time_sec": 72.18
+    "best_time_sec": 72.18,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Steven_Waters",
@@ -564,7 +626,8 @@
     "event_name": "100m Medley",
     "athlete": "Steven Waters",
     "best_time_str": "01m:14s:120ms",
-    "best_time_sec": 74.12
+    "best_time_sec": 74.12,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Craig_McClymont",
@@ -573,7 +636,8 @@
     "event_name": "100m Medley",
     "athlete": "Craig McClymont",
     "best_time_str": "01m:14s:420ms",
-    "best_time_sec": 74.42
+    "best_time_sec": 74.42,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Liam_Schweitzer",
@@ -582,7 +646,8 @@
     "event_name": "100m Medley",
     "athlete": "Liam Schweitzer",
     "best_time_str": "01m:15s:190ms",
-    "best_time_sec": 75.19
+    "best_time_sec": 75.19,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_medley::Nicholas_Taylor",
@@ -591,7 +656,8 @@
     "event_name": "100m Medley",
     "athlete": "Nicholas Taylor",
     "best_time_str": "01m:15s:470ms",
-    "best_time_sec": 75.47
+    "best_time_sec": 75.47,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Nicholas_Pretorius",
@@ -600,7 +666,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Nicholas Pretorius",
     "best_time_str": "02m:01s:950ms",
-    "best_time_sec": 121.95
+    "best_time_sec": 121.95,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Bryce_Minderon",
@@ -609,7 +676,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Bryce Minderon",
     "best_time_str": "02m:05s:750ms",
-    "best_time_sec": 125.75
+    "best_time_sec": 125.75,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Johan_Moolman",
@@ -618,7 +686,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Johan Moolman",
     "best_time_str": "02m:06s:840ms",
-    "best_time_sec": 126.84
+    "best_time_sec": 126.84,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::So_Komatsu",
@@ -627,7 +696,8 @@
     "event_name": "200m Obstacles",
     "athlete": "So Komatsu",
     "best_time_str": "02m:07s:850ms",
-    "best_time_sec": 127.85
+    "best_time_sec": 127.85,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Matthew_Brooker",
@@ -636,7 +706,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Matthew Brooker",
     "best_time_str": "02m:08s:390ms",
-    "best_time_sec": 128.39
+    "best_time_sec": 128.39,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Troy_McWilliam",
@@ -645,7 +716,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Troy McWilliam",
     "best_time_str": "02m:08s:570ms",
-    "best_time_sec": 128.57
+    "best_time_sec": 128.57,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Jack_Allott",
@@ -654,7 +726,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Jack Allott",
     "best_time_str": "02m:09s:030ms",
-    "best_time_sec": 129.03
+    "best_time_sec": 129.03,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Fabian_Hermann",
@@ -663,7 +736,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Fabian Hermann",
     "best_time_str": "02m:09s:160ms",
-    "best_time_sec": 129.16
+    "best_time_sec": 129.16,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Nicholas_Taylor",
@@ -672,7 +746,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Nicholas Taylor",
     "best_time_str": "02m:10s:230ms",
-    "best_time_sec": 130.23
+    "best_time_sec": 130.23,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Vaclav_Horak",
@@ -681,7 +756,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Vaclav Horak",
     "best_time_str": "02m:12s:730ms",
-    "best_time_sec": 132.73
+    "best_time_sec": 132.73,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Neil_Holtzhausen",
@@ -690,7 +766,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "02m:12s:850ms",
-    "best_time_sec": 132.85
+    "best_time_sec": 132.85,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Lucca_Basson",
@@ -699,7 +776,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Lucca Basson",
     "best_time_str": "02m:14s:650ms",
-    "best_time_sec": 134.65
+    "best_time_sec": 134.65,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Jaydon_Allott",
@@ -708,7 +786,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Jaydon Allott",
     "best_time_str": "02m:14s:810ms",
-    "best_time_sec": 134.81
+    "best_time_sec": 134.81,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Craig_McClymont",
@@ -717,7 +796,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Craig McClymont",
     "best_time_str": "02m:17s:720ms",
-    "best_time_sec": 137.72
+    "best_time_sec": 137.72,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Leon_Dupper",
@@ -726,7 +806,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Leon Dupper",
     "best_time_str": "02m:19s:360ms",
-    "best_time_sec": 139.36
+    "best_time_sec": 139.36,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Wade_Beukes",
@@ -735,7 +816,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Wade Beukes",
     "best_time_str": "02m:19s:660ms",
-    "best_time_sec": 139.66
+    "best_time_sec": 139.66,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Daniel_Moynihan",
@@ -744,7 +826,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Daniel Moynihan",
     "best_time_str": "02m:21s:050ms",
-    "best_time_sec": 141.05
+    "best_time_sec": 141.05,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Jan-Lukas_Van_der_Westhuizen",
@@ -753,7 +836,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "02m:22s:000ms",
-    "best_time_sec": 142
+    "best_time_sec": 142,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::200m_obstacles::Ben_Brinkmann",
@@ -762,7 +846,8 @@
     "event_name": "200m Obstacles",
     "athlete": "Ben Brinkmann",
     "best_time_str": "02m:22s:100ms",
-    "best_time_sec": 142.1
+    "best_time_sec": 142.1,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Matthew_Brooker",
@@ -771,7 +856,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Matthew Brooker",
     "best_time_str": "00m:48s:540ms",
-    "best_time_sec": 48.54
+    "best_time_sec": 48.54,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Matthew_Pincente",
@@ -780,7 +866,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Matthew Pincente",
     "best_time_str": "00m:51s:440ms",
-    "best_time_sec": 51.44
+    "best_time_sec": 51.44,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Vaclav_Horak",
@@ -789,7 +876,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Vaclav Horak",
     "best_time_str": "00m:51s:630ms",
-    "best_time_sec": 51.63
+    "best_time_sec": 51.63,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Johan_Moolman",
@@ -798,7 +886,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Johan Moolman",
     "best_time_str": "00m:52s:810ms",
-    "best_time_sec": 52.81
+    "best_time_sec": 52.81,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Jack_Allott",
@@ -807,7 +896,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Jack Allott",
     "best_time_str": "00m:52s:930ms",
-    "best_time_sec": 52.93
+    "best_time_sec": 52.93,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Jan-Lukas_Van_der_Westhuizen",
@@ -816,7 +906,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Jan-Lukas Van der Westhuizen",
     "best_time_str": "00m:53s:990ms",
-    "best_time_sec": 53.99
+    "best_time_sec": 53.99,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Steven_Waters",
@@ -825,7 +916,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Steven Waters",
     "best_time_str": "00m:54s:690ms",
-    "best_time_sec": 54.69
+    "best_time_sec": 54.69,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Neil_Holtzhausen",
@@ -834,7 +926,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Neil Holtzhausen",
     "best_time_str": "00m:56s:000ms",
-    "best_time_sec": 56
+    "best_time_sec": 56,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::So_Komatsu",
@@ -843,7 +936,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "So Komatsu",
     "best_time_str": "00m:57s:300ms",
-    "best_time_sec": 57.3
+    "best_time_sec": 57.3,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Risei_Takada",
@@ -852,7 +946,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Risei Takada",
     "best_time_str": "00m:57s:570ms",
-    "best_time_sec": 57.57
+    "best_time_sec": 57.57,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Migael_Reuven_Van_der_Merwe",
@@ -861,7 +956,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Migael Reuven Van der Merwe",
     "best_time_str": "00m:57s:760ms",
-    "best_time_sec": 57.76
+    "best_time_sec": 57.76,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Lucca_Basson",
@@ -870,7 +966,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Lucca Basson",
     "best_time_str": "00m:57s:910ms",
-    "best_time_sec": 57.91
+    "best_time_sec": 57.91,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::AJ_Britz",
@@ -879,7 +976,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "AJ Britz",
     "best_time_str": "00m:58s:060ms",
-    "best_time_sec": 58.06
+    "best_time_sec": 58.06,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Men::100m_manikin_carry_with_fins::Christian_van_Heerden",
@@ -888,7 +986,8 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Christian van Heerden",
     "best_time_str": "00m:58s:100ms",
-    "best_time_sec": 58.1
+    "best_time_sec": 58.1,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Keira_van_Heerden",
@@ -897,7 +996,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Keira van Heerden",
     "best_time_str": "00m:36s:180ms",
-    "best_time_sec": 36.18
+    "best_time_sec": 36.18,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Jesse_Leah_Laderach",
@@ -906,7 +1006,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jesse Leah Laderach",
     "best_time_str": "00m:38s:200ms",
-    "best_time_sec": 38.2
+    "best_time_sec": 38.2,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Kendra_Begley",
@@ -915,7 +1016,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Kendra Begley",
     "best_time_str": "00m:38s:340ms",
-    "best_time_sec": 38.34
+    "best_time_sec": 38.34,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Jessica_Harcus",
@@ -924,7 +1026,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jessica Harcus",
     "best_time_str": "00m:39s:950ms",
-    "best_time_sec": 39.95
+    "best_time_sec": 39.95,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Xanthe_Nagel",
@@ -933,7 +1036,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Xanthe Nagel",
     "best_time_str": "00m:39s:970ms",
-    "best_time_sec": 39.97
+    "best_time_sec": 39.97,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Zoe_Steyn",
@@ -942,7 +1046,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Zoe Steyn",
     "best_time_str": "00m:40s:650ms",
-    "best_time_sec": 40.65
+    "best_time_sec": 40.65,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Miya_Krog",
@@ -951,7 +1056,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Miya Krog",
     "best_time_str": "00m:40s:750ms",
-    "best_time_sec": 40.75
+    "best_time_sec": 40.75,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Isabella_Havemann",
@@ -960,7 +1066,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Isabella Havemann",
     "best_time_str": "00m:40s:940ms",
-    "best_time_sec": 40.94
+    "best_time_sec": 40.94,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Casey_Bruwer",
@@ -969,7 +1076,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Casey Bruwer",
     "best_time_str": "00m:41s:540ms",
-    "best_time_sec": 41.54
+    "best_time_sec": 41.54,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Sabrina_Krige",
@@ -978,7 +1086,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Sabrina Krige",
     "best_time_str": "00m:41s:910ms",
-    "best_time_sec": 41.91
+    "best_time_sec": 41.91,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Jemmah_Roman",
@@ -987,7 +1096,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jemmah Roman",
     "best_time_str": "00m:41s:920ms",
-    "best_time_sec": 41.92
+    "best_time_sec": 41.92,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Jessie_Allott",
@@ -996,7 +1106,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Jessie Allott",
     "best_time_str": "00m:42s:180ms",
-    "best_time_sec": 42.18
+    "best_time_sec": 42.18,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Daniella_Harcus",
@@ -1005,7 +1116,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Daniella Harcus",
     "best_time_str": "00m:42s:590ms",
-    "best_time_sec": 42.59
+    "best_time_sec": 42.59,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Riziki_Magotsi",
@@ -1014,7 +1126,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Riziki Magotsi",
     "best_time_str": "00m:42s:760ms",
-    "best_time_sec": 42.76
+    "best_time_sec": 42.76,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Rone_Joubert",
@@ -1023,7 +1136,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Rone Joubert",
     "best_time_str": "00m:43s:100ms",
-    "best_time_sec": 43.1
+    "best_time_sec": 43.1,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Katya_Bova-Olsen",
@@ -1032,7 +1146,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Katya Bova-Olsen",
     "best_time_str": "00m:43s:230ms",
-    "best_time_sec": 43.23
+    "best_time_sec": 43.23,
+    "club_code": "RSA"
   },
   {
     "id": "Youth_Women::50m_manikin_carry::Erin_Langenhoven",
@@ -1041,2023 +1156,8 @@
     "event_name": "50m Manikin Carry",
     "athlete": "Erin Langenhoven",
     "best_time_str": "00m:43s:340ms",
-    "best_time_sec": 43.34
-  },
-  {
-    "id": "Youth_Women::50m_manikin_carry::Grace_Prince",
-    "division": "Youth Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Grace Prince",
-    "best_time_str": "00m:43s:360ms",
-    "best_time_sec": 43.36
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Keira_van_Heerden",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "01m:04s:870ms",
-    "best_time_sec": 64.87
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Grace_Prince",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Grace Prince",
-    "best_time_str": "01m:04s:950ms",
-    "best_time_sec": 64.95
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Kendra_Begley",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Kendra Begley",
-    "best_time_str": "01m:05s:780ms",
-    "best_time_sec": 65.78
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Grace_Roslyn_Prince",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Grace Roslyn Prince",
-    "best_time_str": "01m:06s:280ms",
-    "best_time_sec": 66.28
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Emma_Neethling",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Emma Neethling",
-    "best_time_str": "01m:07s:840ms",
-    "best_time_sec": 67.84
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Amber-Rose_Berry",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Amber-Rose Berry",
-    "best_time_str": "01m:08s:340ms",
-    "best_time_sec": 68.34
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Rone_Joubert",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Rone Joubert",
-    "best_time_str": "01m:08s:470ms",
-    "best_time_sec": 68.47
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Mia_Krog",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Mia Krog",
-    "best_time_str": "01m:08s:490ms",
-    "best_time_sec": 68.49
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Layla_Nixon",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Layla Nixon",
-    "best_time_str": "01m:08s:760ms",
-    "best_time_sec": 68.76
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Jessie_Allott",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Jessie Allott",
-    "best_time_str": "01m:08s:910ms",
-    "best_time_sec": 68.91
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Zoe_Steyn",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "01m:09s:050ms",
-    "best_time_sec": 69.05
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Jesse_Leah_Laderach",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "01m:10s:560ms",
-    "best_time_sec": 70.56
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Jessica_Harcus",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Jessica Harcus",
-    "best_time_str": "01m:11s:330ms",
-    "best_time_sec": 71.33
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Erin_Langenhoven",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "01m:11s:640ms",
-    "best_time_sec": 71.64
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Miya_Krog",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Miya Krog",
-    "best_time_str": "01m:12s:460ms",
-    "best_time_sec": 72.46
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Casey_Bruwer",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "01m:12s:830ms",
-    "best_time_sec": 72.83
-  },
-  {
-    "id": "Youth_Women::100m_manikin_tow::Xanthe_Nagel",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "01m:13s:180ms",
-    "best_time_sec": 73.18
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Keira_van_Heerden",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "02m:35s:560ms",
-    "best_time_sec": 155.56
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Jessie_Allott",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Jessie Allott",
-    "best_time_str": "02m:42s:170ms",
-    "best_time_sec": 162.17
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Jesse_Leah_Laderach",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "02m:45s:250ms",
-    "best_time_sec": 165.25
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Kendra_Begley",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Kendra Begley",
-    "best_time_str": "02m:46s:130ms",
-    "best_time_sec": 166.13
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Erin_Langenhoven",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "02m:46s:660ms",
-    "best_time_sec": 166.66
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Zoe_Steyn",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "02m:47s:440ms",
-    "best_time_sec": 167.44
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Casey_Bruwer",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "02m:48s:730ms",
-    "best_time_sec": 168.73
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Alexa_Heldinger",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Alexa Heldinger",
-    "best_time_str": "02m:50s:620ms",
-    "best_time_sec": 170.62
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Prince_Grace_Roslyn",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Prince Grace Roslyn",
-    "best_time_str": "02m:51s:180ms",
-    "best_time_sec": 171.18
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Xanthe_Nagel",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "02m:51s:360ms",
-    "best_time_sec": 171.36
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Grace_Prince",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Grace Prince",
-    "best_time_str": "02m:52s:720ms",
-    "best_time_sec": 172.72
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Isabella_Brooker",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Isabella Brooker",
-    "best_time_str": "02m:53s:390ms",
-    "best_time_sec": 173.39
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Miya_Krog",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Miya Krog",
-    "best_time_str": "02m:53s:610ms",
-    "best_time_sec": 173.61
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Rone_Joubert",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Rone Joubert",
-    "best_time_str": "02m:54s:100ms",
-    "best_time_sec": 174.1
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Hailey_Blewett",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Hailey Blewett",
-    "best_time_str": "02m:55s:120ms",
-    "best_time_sec": 175.12
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Alexa_Heldsinger",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Alexa Heldsinger",
-    "best_time_str": "02m:55s:810ms",
-    "best_time_sec": 175.81
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Layla_Nixon",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Layla Nixon",
-    "best_time_str": "02m:57s:230ms",
-    "best_time_sec": 177.23
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Mia_Krog",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Mia Krog",
-    "best_time_str": "02m:58s:000ms",
-    "best_time_sec": 178
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Katya_Bova-Olsen",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Katya Bova-Olsen",
-    "best_time_str": "02m:58s:060ms",
-    "best_time_sec": 178.06
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Emma_Neethling",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Emma Neethling",
-    "best_time_str": "02m:58s:530ms",
-    "best_time_sec": 178.53
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Amber-Rose_Berry",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Amber-Rose Berry",
-    "best_time_str": "03m:01s:030ms",
-    "best_time_sec": 181.03
-  },
-  {
-    "id": "Youth_Women::200m_super_lifesaver::Daniella_Harcus",
-    "division": "Youth Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Daniella Harcus",
-    "best_time_str": "03m:01s:840ms",
-    "best_time_sec": 181.84
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Keira_van_Heerden",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "01m:13s:550ms",
-    "best_time_sec": 73.55
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Jesse_Leah_Laderach",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "01m:18s:740ms",
-    "best_time_sec": 78.74
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Xanthe_Nagel",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "01m:19s:790ms",
-    "best_time_sec": 79.79
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Kendra_Begley",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Kendra Begley",
-    "best_time_str": "01m:20s:400ms",
-    "best_time_sec": 80.4
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Zoe_Steyn",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "01m:23s:710ms",
-    "best_time_sec": 83.71
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Jessie_Allott",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Jessie Allott",
-    "best_time_str": "01m:26s:350ms",
-    "best_time_sec": 86.35
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Casey_Bruwer",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "01m:26s:530ms",
-    "best_time_sec": 86.53
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Erin_Langenhoven",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "01m:26s:660ms",
-    "best_time_sec": 86.66
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Jemmah_Roman",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Jemmah Roman",
-    "best_time_str": "01m:26s:720ms",
-    "best_time_sec": 86.72
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Alexa_Heldinger",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Alexa Heldinger",
-    "best_time_str": "01m:26s:740ms",
-    "best_time_sec": 86.74
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Daniella_Harcus",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Daniella Harcus",
-    "best_time_str": "01m:27s:480ms",
-    "best_time_sec": 87.48
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Jessica_Harcus",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Jessica Harcus",
-    "best_time_str": "01m:27s:590ms",
-    "best_time_sec": 87.59
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Riziki_Magotsi",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Riziki Magotsi",
-    "best_time_str": "01m:28s:620ms",
-    "best_time_sec": 88.62
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Alexa_Heldsinger",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Alexa Heldsinger",
-    "best_time_str": "01m:29s:420ms",
-    "best_time_sec": 89.42
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Megan_Waters",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Megan Waters",
-    "best_time_str": "01m:29s:910ms",
-    "best_time_sec": 89.91
-  },
-  {
-    "id": "Youth_Women::100m_rescue_medley::Isabella_Brooker",
-    "division": "Youth Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Isabella Brooker",
-    "best_time_str": "01m:31s:110ms",
-    "best_time_sec": 91.11
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Keira_van_Heerden",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "02m:16s:140ms",
-    "best_time_sec": 136.14
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Myra_Viduya",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Myra Viduya",
-    "best_time_str": "02m:18s:000ms",
-    "best_time_sec": 138
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Sienna_Gous",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Sienna Gous",
-    "best_time_str": "02m:20s:230ms",
-    "best_time_sec": 140.23
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Morgan_Gous",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Morgan Gous",
-    "best_time_str": "02m:22s:480ms",
-    "best_time_sec": 142.48
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Jesse_Leah_Laderach",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "02m:23s:330ms",
-    "best_time_sec": 143.33
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Kendra_Begley",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Kendra Begley",
-    "best_time_str": "02m:25s:210ms",
-    "best_time_sec": 145.21
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Xanthe_Nagel",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "02m:28s:220ms",
-    "best_time_sec": 148.22
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Erin_Langenhoven",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "02m:28s:340ms",
-    "best_time_sec": 148.34
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Emma_Neethling",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Emma Neethling",
-    "best_time_str": "02m:29s:520ms",
-    "best_time_sec": 149.52
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Casey_Bruwer",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "02m:30s:820ms",
-    "best_time_sec": 150.82
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Jemmah_Roman",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Jemmah Roman",
-    "best_time_str": "02m:32s:980ms",
-    "best_time_sec": 152.98
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Alexa_Heldinger",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Alexa Heldinger",
-    "best_time_str": "02m:33s:690ms",
-    "best_time_sec": 153.69
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Mia_Krog",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Mia Krog",
-    "best_time_str": "02m:34s:860ms",
-    "best_time_sec": 154.86
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Riziki_Magotsi",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Riziki Magotsi",
-    "best_time_str": "02m:35s:030ms",
-    "best_time_sec": 155.03
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Hailey_Blewett",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Hailey Blewett",
-    "best_time_str": "02m:35s:620ms",
-    "best_time_sec": 155.62
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Katya_Bova-Olsen",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Katya Bova-Olsen",
-    "best_time_str": "02m:35s:680ms",
-    "best_time_sec": 155.68
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Caitlin_Rossiter",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Caitlin Rossiter",
-    "best_time_str": "02m:35s:800ms",
-    "best_time_sec": 155.8
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Sabella_Serdyn",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Sabella Serdyn",
-    "best_time_str": "02m:36s:410ms",
-    "best_time_sec": 156.41
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Isabella_Brooker",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Isabella Brooker",
-    "best_time_str": "02m:36s:420ms",
-    "best_time_sec": 156.42
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Reese_Noble",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Reese Noble",
-    "best_time_str": "02m:36s:730ms",
-    "best_time_sec": 156.73
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Zoe_Steyn",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "02m:37s:730ms",
-    "best_time_sec": 157.73
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Miya_Krog",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Miya Krog",
-    "best_time_str": "02m:37s:880ms",
-    "best_time_sec": 157.88
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Alexa_Heldsinger",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Alexa Heldsinger",
-    "best_time_str": "02m:37s:970ms",
-    "best_time_sec": 157.97
-  },
-  {
-    "id": "Youth_Women::200m_obstacles::Jessie_Allott",
-    "division": "Youth Women",
-    "event_id": "200m_obstacles",
-    "event_name": "200m Obstacles",
-    "athlete": "Jessie Allott",
-    "best_time_str": "02m:38s:380ms",
-    "best_time_sec": 158.38
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Keira_van_Heerden",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "00m:54s:090ms",
-    "best_time_sec": 54.09
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Layla_Nixon",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Layla Nixon",
-    "best_time_str": "01m:00s:310ms",
-    "best_time_sec": 60.31
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Grace_Prince",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Grace Prince",
-    "best_time_str": "01m:00s:590ms",
-    "best_time_sec": 60.59
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Kendra_Begley",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Kendra Begley",
-    "best_time_str": "01m:01s:860ms",
-    "best_time_sec": 61.86
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Zoe_Steyn",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "01m:02s:580ms",
-    "best_time_sec": 62.58
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Casey_Bruwer",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "01m:02s:600ms",
-    "best_time_sec": 62.6
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Jessica_Harcus",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Jessica Harcus",
-    "best_time_str": "01m:03s:870ms",
-    "best_time_sec": 63.87
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Jessie_Allott",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Jessie Allott",
-    "best_time_str": "01m:03s:940ms",
-    "best_time_sec": 63.94
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Jesse_Leah_Laderach",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "01m:04s:070ms",
-    "best_time_sec": 64.07
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Mia_Krog",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Mia Krog",
-    "best_time_str": "01m:06s:150ms",
-    "best_time_sec": 66.15
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Amber-Rose_Berry",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Amber-Rose Berry",
-    "best_time_str": "01m:06s:280ms",
-    "best_time_sec": 66.28
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Prince_Grace_Roslyn",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Prince Grace Roslyn",
-    "best_time_str": "01m:06s:370ms",
-    "best_time_sec": 66.37
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Rone_Joubert",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Rone Joubert",
-    "best_time_str": "01m:06s:660ms",
-    "best_time_sec": 66.66
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Erin_Langenhoven",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "01m:07s:520ms",
-    "best_time_sec": 67.52
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Isabella_Brooker",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Isabella Brooker",
-    "best_time_str": "01m:07s:620ms",
-    "best_time_sec": 67.62
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Sabrina_Krige",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Sabrina Krige",
-    "best_time_str": "01m:08s:090ms",
-    "best_time_sec": 68.09
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Xanthe_Nagel",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "01m:08s:210ms",
-    "best_time_sec": 68.21
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Isabella_Havemann",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Isabella Havemann",
-    "best_time_str": "01m:08s:250ms",
-    "best_time_sec": 68.25
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Miya_Krog",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Miya Krog",
-    "best_time_str": "01m:09s:040ms",
-    "best_time_sec": 69.04
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Daniella_Harcus",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Daniella Harcus",
-    "best_time_str": "01m:09s:110ms",
-    "best_time_sec": 69.11
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Shaylee_Powell",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Shaylee Powell",
-    "best_time_str": "01m:09s:560ms",
-    "best_time_sec": 69.56
-  },
-  {
-    "id":"Youth_Women::100m_manikin_carry_with_fins::Emma_Neethling",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Emma Neethling",
-    "best_time_str": "01m:10s:360ms",
-    "best_time_sec": 70.36
-  },
-  {
-    "id": "Youth_Women::100m_manikin_carry_with_fins::Cloe_Jewell",
-    "division": "Youth Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Cloe Jewell",
-    "best_time_str": "01m:10s:440ms",
-    "best_time_sec": 70.44
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Aiden_Bornman",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Aiden Bornman",
-    "best_time_str": "00m:30s:510ms",
-    "best_time_sec": 30.51
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Matthew_Pincente",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Matthew Pincente",
-    "best_time_str": "00m:30s:630ms",
-    "best_time_sec": 30.63
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Connor_Bagley",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Connor Bagley",
-    "best_time_str": "00m:31s:170ms",
-    "best_time_sec": 31.17
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Barjo_van_Niekerk",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Barjo van Niekerk",
-    "best_time_str": "00m:31s:200ms",
-    "best_time_sec": 31.2
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Bryce_Minderon",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Bryce Minderon",
-    "best_time_str": "00m:31s:450ms",
-    "best_time_sec": 31.45
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Fabian_Hermann",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Fabian Hermann",
-    "best_time_str": "00m:31s:960ms",
-    "best_time_sec": 31.96
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Mathew_Pincente",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Mathew Pincente",
-    "best_time_str": "00m:32s:380ms",
-    "best_time_sec": 32.38
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Hayden_Hemmens",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Hayden Hemmens",
-    "best_time_str": "00m:32s:430ms",
-    "best_time_sec": 32.43
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Wilan_Basson",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Wilan Basson",
-    "best_time_str": "00m:32s:730ms",
-    "best_time_sec": 32.73
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Ockert_van_Schalkwyk",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Ockert van Schalkwyk",
-    "best_time_str": "00m:32s:750ms",
-    "best_time_sec": 32.75
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Nicholas_Pretorius",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Nicholas Pretorius",
-    "best_time_str": "00m:32s:760ms",
-    "best_time_sec": 32.76
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Matthew_Brooker",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Matthew Brooker",
-    "best_time_str": "00m:32s:790ms",
-    "best_time_sec": 32.79
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Vaclav_Horak",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Vaclav Horak",
-    "best_time_str": "00m:33s:080ms",
-    "best_time_sec": 33.08
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Jan-Lukas_Van_der_Westhuizen",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Jan-Lukas Van der Westhuizen",
-    "best_time_str": "00m:33s:420ms",
-    "best_time_sec": 33.42
-  },
-  {
-    "id": "Open_Men::50m_manikin_carry::Lucca_Basson",
-    "division": "Open Men",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Lucca Basson",
-    "best_time_str": "00m:33s:540ms",
-    "best_time_sec": 33.54
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Aidan_Mills",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Aidan Mills",
-    "best_time_str": "00m:54s:370ms",
-    "best_time_sec": 54.37
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Wilan_Basson",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Wilan Basson",
-    "best_time_str": "00m:54s:500ms",
-    "best_time_sec": 54.5
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Ockert_van_Schalkwyk",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Ockert van Schalkwyk",
-    "best_time_str": "00m:55s:480ms",
-    "best_time_sec": 55.48
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Matthew_Brooker",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Matthew Brooker",
-    "best_time_str": "00m:56s:150ms",
-    "best_time_sec": 56.15
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Barjo_van_Niekerk",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Barjo van Niekerk",
-    "best_time_str": "00m:57s:220ms",
-    "best_time_sec": 57.22
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Johan_Moolman",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Johan Moolman",
-    "best_time_str": "00m:58s:030ms",
-    "best_time_sec": 58.03
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Connor_Bagley",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Connor Bagley",
-    "best_time_str": "00m:58s:050ms",
-    "best_time_sec": 58.05
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Daniel_Miller",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Daniel Miller",
-    "best_time_str": "00m:58s:140ms",
-    "best_time_sec": 58.14
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Len-Douglas_Mac_Kay",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Len-Douglas Mac Kay",
-    "best_time_str": "00m:58s:440ms",
-    "best_time_sec": 58.44
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Vaclav_Horak",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Vaclav Horak",
-    "best_time_str": "00m:58s:810ms",
-    "best_time_sec": 58.81
-  },
-  {
-    "id": "Open_Men::100m_manikin_tow::Aiden_Bornman",
-    "division": "Open Men",
-    "event_id": "100m_manikin_tow",
-    "event_name": "100m Manikin Tow",
-    "athlete": "Aiden Bornman",
-    "best_time_str": "00m:58s:950ms",
-    "best_time_sec": 58.95
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Matthew_Brooker",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Matthew Brooker",
-    "best_time_str": "02m:13s:600ms",
-    "best_time_sec": 133.6
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Fabian_Hermann",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Fabian Hermann",
-    "best_time_str": "02m:17s:650ms",
-    "best_time_sec": 137.65
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Ockert_van_Schalkwyk",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Ockert van Schalkwyk",
-    "best_time_str": "02m:17s:740ms",
-    "best_time_sec": 137.74
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Wilan_Basson",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Wilan Basson",
-    "best_time_str": "02m:17s:910ms",
-    "best_time_sec": 137.91
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Daniel_Miller",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Daniel Miller",
-    "best_time_str": "02m:19s:840ms",
-    "best_time_sec": 139.84
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Jack_Allott",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Jack Allott",
-    "best_time_str": "02m:21s:430ms",
-    "best_time_sec": 141.43
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Len-Douglas_Mac_Kay",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Len-Douglas Mac Kay",
-    "best_time_str": "02m:21s:550ms",
-    "best_time_sec": 141.55
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Neil_Holtzhausen",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Neil Holtzhausen",
-    "best_time_str": "02m:22s:840ms",
-    "best_time_sec": 142.84
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Johan_Moolman",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Johan Moolman",
-    "best_time_str": "02m:22s:990ms",
-    "best_time_sec": 142.99
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Aidan_Mills",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Aidan Mills",
-    "best_time_str": "02m:23s:500ms",
-    "best_time_sec": 143.5
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Aiden_Bornman",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Aiden Bornman",
-    "best_time_str": "02m:23s:580ms",
-    "best_time_sec": 143.58
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::Hayden_Hemmens",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Hayden Hemmens",
-    "best_time_str": "02m:25s:150ms",
-    "best_time_sec": 145.15
-  },
-  {
-    "id": "Open_Men::200m_super_lifesaver::So_Komatsu",
-    "division": "Open Men",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "So Komatsu",
-    "best_time_str": "02m:25s:960ms",
-    "best_time_sec": 145.96
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Hayden_Hemmens",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Hayden Hemmens",
-    "best_time_str": "02m:00s:640ms",
-    "best_time_sec": 120.64
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Aiden_Bornman",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Aiden Bornman",
-    "best_time_str": "02m:01s:770ms",
-    "best_time_sec": 121.77
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Nicholas_Pretorius",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Nicholas Pretorius",
-    "best_time_str": "02m:01s:950ms",
-    "best_time_sec": 121.95
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Bryce_Minderon",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Bryce Minderon",
-    "best_time_str": "02m:05s:750ms",
-    "best_time_sec": 125.75
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Johan_Moolman",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Johan Moolman",
-    "best_time_str": "02m:06s:840ms",
-    "best_time_sec": 126.84
-  },
-  {
-    "id": "Open_Men::200m_obstacle::So_Komatsu",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "So Komatsu",
-    "best_time_str": "02m:07s:850ms",
-    "best_time_sec": 127.85
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Matthew_Brooker",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Matthew Brooker",
-    "best_time_str": "02m:08s:390ms",
-    "best_time_sec": 128.39
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Troy_McWilliam",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Troy McWilliam",
-    "best_time_str": "02m:08s:570ms",
-    "best_time_sec": 128.57
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Connor_Bagley",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Connor Bagley",
-    "best_time_str": "02m:08s:870ms",
-    "best_time_sec": 128.87
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Jack_Allott",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Jack Allott",
-    "best_time_str": "02m:09s:030ms",
-    "best_time_sec": 129.03
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Fabian_Hermann",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Fabian Hermann",
-    "best_time_str": "02m:09s:160ms",
-    "best_time_sec": 129.16
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Nicholas_Taylor",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Nicholas Taylor",
-    "best_time_str": "02m:10s:230ms",
-    "best_time_sec": 130.23
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Vaclav_Horak",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Vaclav Horak",
-    "best_time_str": "02m:12s:730ms",
-    "best_time_sec": 132.73
-  },
-  {
-    "id": "Open_Men::200m_obstacle::Neil_Holtzhausen",
-    "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Neil Holtzhausen",
-    "best_time_str": "02m:12s:850ms",
-    "best_time_sec": 132.85
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Aiden_Bornman",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Aiden Bornman",
-    "best_time_str": "01m:05s:260ms",
-    "best_time_sec": 65.26
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Nicholas_Pretorius",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Nicholas Pretorius",
-    "best_time_str": "01m:06s:280ms",
-    "best_time_sec": 66.28
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Hayden_Hemmens",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Hayden Hemmens",
-    "best_time_str": "01m:06s:340ms",
-    "best_time_sec": 66.34
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Barjo_van_Niekerk",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Barjo van Niekerk",
-    "best_time_str": "01m:06s:370ms",
-    "best_time_sec": 66.37
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Bryce_Minderon",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Bryce Minderon",
-    "best_time_str": "01m:06s:420ms",
-    "best_time_sec": 66.42
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Matthew_Pincente",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Matthew Pincente",
-    "best_time_str": "01m:06s:870ms",
-    "best_time_sec": 66.87
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Matthew_Brooker",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Matthew Brooker",
-    "best_time_str": "01m:07s:330ms",
-    "best_time_sec": 67.33
-  },
-  {
-    "id": "Open_Men::100m_rescue_medley::Connor_Bagley",
-    "division": "Open Men",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Connor Bagley",
-    "best_time_str": "01m:08s:070ms",
-    "best_time_sec": 68.07
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "00m:36s:180ms",
-    "best_time_sec": 36.18
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Anna-Fiona_Volz",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Anna-Fiona Volz",
-    "best_time_str": "00m:37s:050ms",
-    "best_time_sec": 37.05
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "00m:37s:300ms",
-    "best_time_sec": 37.3
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Savannah_Voigt",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Savannah Voigt",
-    "best_time_str": "00m:38s:010ms",
-    "best_time_sec": 38.01
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Jesse_Leah_Laderach",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "00m:38s:200ms",
-    "best_time_sec": 38.2
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Kendra_Begley",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Kendra Begley",
-    "best_time_str": "00m:38s:340ms",
-    "best_time_sec": 38.34
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Amica_De_Jager",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Amica De Jager",
-    "best_time_str": "00m:38s:470ms",
-    "best_time_sec": 38.47
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Sasha-Lee_Hemmens",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Sasha-Lee Hemmens",
-    "best_time_str": "00m:39s:010ms",
-    "best_time_sec": 39.01
-  },
-  {
-    "id": "Open_Women::50m_manikin_carry::Nicola_Harcus",
-    "division": "Open Women",
-    "event_id": "50m_manikin_carry",
-    "event_name": "50m Manikin Carry",
-    "athlete": "Nicola Harcus",
-    "best_time_str": "00m:39s:290ms",
-    "best_time_sec": 39.29
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Anna-Fiona_Volz",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Anna-Fiona Volz",
-    "best_time_str": "01m:02s:410ms",
-    "best_time_sec": 62.41
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "01m:03s:100ms",
-    "best_time_sec": 63.1
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "01m:04s:870ms",
-    "best_time_sec": 64.87
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Grace_Prince",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Grace Prince",
-    "best_time_str": "01m:04s:950ms",
-    "best_time_sec": 64.95
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Amica_De_Jager",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Amica De Jager",
-    "best_time_str": "01m:05s:530ms",
-    "best_time_sec": 65.53
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Tanya_Pieterse",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Tanya Pieterse",
-    "best_time_str": "01m:05s:570ms",
-    "best_time_sec": 65.57
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Kendra_Begley",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Kendra Begley",
-    "best_time_str": "01m:05s:780ms",
-    "best_time_sec": 65.78
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Savannah_Voigt",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Savannah Voigt",
-    "best_time_str": "01m:06s:250ms",
-    "best_time_sec": 66.25
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Grace_Roslyn_Prince",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Grace Roslyn Prince",
-    "best_time_str": "01m:06s:280ms",
-    "best_time_sec": 66.28
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Sasha-Lee_Hemmens",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Sasha-Lee Hemmens",
-    "best_time_str": "01m:06s:900ms",
-    "best_time_sec": 66.9
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Alke_Stopforth",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Alke Stopforth",
-    "best_time_str": "01m:06s:930ms",
-    "best_time_sec": 66.93
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Nicola_Harcus",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Nicola Harcus",
-    "best_time_str": "01m:07s:280ms",
-    "best_time_sec": 67.28
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Michelle_Lamprecht",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Michelle Lamprecht",
-    "best_time_str": "01m:07s:640ms",
-    "best_time_sec": 67.64
-  },
-  {
-    "id": "Open_Women::100m_manikin_tow_with_fins::Emma_Neethling",
-    "division": "Open Women",
-    "event_id": "100m_manikin_tow_with_fins",
-    "event_name": "100m Manikin Tow with Fins",
-    "athlete": "Emma Neethling",
-    "best_time_str": "01m:07s:840ms",
-    "best_time_sec": 67.84
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Yvonne_Prehn",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Yvonne Prehn",
-    "best_time_str": "02m:24s:450ms",
-    "best_time_sec": 144.45
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Nicola_Harcus",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Nicola Harcus",
-    "best_time_str": "02m:33s:340ms",
-    "best_time_sec": 153.34
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Anna-Fiona_Volz",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Anna-Fiona Volz",
-    "best_time_str": "02m:33s:630ms",
-    "best_time_sec": 153.63
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "02m:35s:560ms",
-    "best_time_sec": 155.56
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Sasha-Lee_Hemmens",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Sasha-Lee Hemmens",
-    "best_time_str": "02m:36s:790ms",
-    "best_time_sec": 156.79
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "02m:40s:210ms",
-    "best_time_sec": 160.21
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Amica_De_Jager",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Amica De Jager",
-    "best_time_str": "02m:40s:710ms",
-    "best_time_sec": 160.71
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Jessie_Allott",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Jessie Allott",
-    "best_time_str": "02m:42s:170ms",
-    "best_time_sec": 162.17
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Jesse_Leah_Laderach",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "02m:45s:250ms",
-    "best_time_sec": 165.25
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Kendra_Begley",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Kendra Begley",
-    "best_time_str": "02m:46s:130ms",
-    "best_time_sec": 166.13
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Erin_Langenhoven",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "02m:46s:660ms",
-    "best_time_sec": 166.66
-  },
-  {
-    "id": "Open_Women::200m_super_lifesaver::Zoe_Steyn",
-    "division": "Open Women",
-    "event_id": "200m_super_lifesaver",
-    "event_name": "200m Super Lifesaver",
-    "athlete": "Zoe Steyn",
-    "best_time_str": "02m:47s:440ms",
-    "best_time_sec": 167.44
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "02m:16s:140ms",
-    "best_time_sec": 136.14
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Nicola_Harcus",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Nicola Harcus",
-    "best_time_str": "02m:18s:420ms",
-    "best_time_sec": 138.42
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Sasha-Lee_Hemmens",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Sasha-Lee Hemmens",
-    "best_time_str": "02m:18s:490ms",
-    "best_time_sec": 138.49
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "02m:22s:480ms",
-    "best_time_sec": 142.48
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Jesse_Leah_Laderach",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "02m:23s:330ms",
-    "best_time_sec": 143.33
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Amica_De_Jager",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Amica De Jager",
-    "best_time_str": "02m:23s:380ms",
-    "best_time_sec": 143.38
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Kendra_Begley",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Kendra Begley",
-    "best_time_str": "02m:25s:210ms",
-    "best_time_sec": 145.21
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Xanthe_Nagel",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "02m:28s:220ms",
-    "best_time_sec": 148.22
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Erin_Langenhoven",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Erin Langenhoven",
-    "best_time_str": "02m:28s:340ms",
-    "best_time_sec": 148.34
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Emma_Neethling",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Emma Neethling",
-    "best_time_str": "02m:29s:520ms",
-    "best_time_sec": 149.52
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Nicola_Herbst",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Nicola Herbst",
-    "best_time_str": "02m:29s:750ms",
-    "best_time_sec": 149.75
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Casey_Bruwer",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Casey Bruwer",
-    "best_time_str": "02m:30s:820ms",
-    "best_time_sec": 150.82
-  },
-  {
-    "id": "Open_Women::200m_obstacle::Jemmah_Roman",
-    "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "event_name": "200m Obstacle",
-    "athlete": "Jemmah Roman",
-    "best_time_str": "02m:32s:980ms",
-    "best_time_sec": 152.98
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "01m:13s:550ms",
-    "best_time_sec": 73.55
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Anna-Fiona_Volz",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Anna-Fiona Volz",
-    "best_time_str": "01m:15s:520ms",
-    "best_time_sec": 75.52
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Savannah_Voigt",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Savannah Voigt",
-    "best_time_str": "01m:17s:640ms",
-    "best_time_sec": 77.64
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "01m:18s:060ms",
-    "best_time_sec": 78.06
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Jesse_Leah_Laderach",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Jesse Leah Laderach",
-    "best_time_str": "01m:18s:740ms",
-    "best_time_sec": 78.74
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Nicola_Harcus",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Nicola Harcus",
-    "best_time_str": "01m:19s:370ms",
-    "best_time_sec": 79.37
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Xanthe_Nagel",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Xanthe Nagel",
-    "best_time_str": "01m:19s:790ms",
-    "best_time_sec": 79.79
-  },
-  {
-    "id": "Open_Women::100m_rescue_medley::Kendra_Begley",
-    "division": "Open Women",
-    "event_id": "100m_rescue_medley",
-    "event_name": "100m Rescue Medley",
-    "athlete": "Kendra Begley",
-    "best_time_str": "01m:20s:400ms",
-    "best_time_sec": 80.4
-  },
-  {
-    "id": "Open_Women::100m_manikin_carry_with_fins::Keira_van_Heerden",
-    "division": "Open Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Keira van Heerden",
-    "best_time_str": "00m:54s:090ms",
-    "best_time_sec": 54.09
-  },
-  {
-    "id": "Open_Women::100m_manikin_carry_with_fins::Kendra_du_Toit",
-    "division": "Open Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Kendra du Toit",
-    "best_time_str": "00m:56s:450ms",
-    "best_time_sec": 56.45
-  },
-  {
-    "id": "Open_Women::100m_manikin_carry_with_fins::Savannah_Voigt",
-    "division": "Open Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Savannah Voigt",
-    "best_time_str": "00m:57s:660ms",
-    "best_time_sec": 57.66
-  },
-  {
-    "id": "Open_Women::100m_manikin_carry_with_fins::Layla_Nixon",
-    "division": "Open Women",
-    "event_id": "100m_manikin_carry_with_fins",
-    "event_name": "100m Manikin Carry with Fins",
-    "athlete": "Layla Nixon",
-    "best_time_str": "01m:00s:310ms",
-    "best_time_sec": 60.31
+    "best_time_sec": 43.34,
+    "club_code": "RSA"
   },
   {
     "id": "Open_Women::100m_manikin_carry_with_fins::Grace_Prince",
@@ -3066,6 +1166,2207 @@
     "event_name": "100m Manikin Carry with Fins",
     "athlete": "Grace Prince",
     "best_time_str": "01m:00s:590ms",
-    "best_time_sec": 60.59
+    "best_time_sec": 60.59,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Grace_Prince",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Grace Prince",
+    "best_time_str": "01m:04s:950ms",
+    "best_time_sec": 64.95,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Grace_Prince",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Grace Prince",
+    "best_time_str": "01m:00s:590ms",
+    "best_time_sec": 60.59,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Grace_Prince",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Grace Prince",
+    "best_time_str": "01m:04s:950ms",
+    "best_time_sec": 64.95,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Grace_Prince",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Grace Prince",
+    "best_time_str": "02m:51s:180ms",
+    "best_time_sec": 171.18,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::50m_manikin_carry::Grace_Prince",
+    "division": "Youth Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Grace Prince",
+    "best_time_str": "00m:43s:360ms",
+    "best_time_sec": 43.36,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Keira_van_Heerden",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "01m:04s:870ms",
+    "best_time_sec": 64.87,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Kendra_Begley",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Kendra Begley",
+    "best_time_str": "01m:05s:780ms",
+    "best_time_sec": 65.78,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Emma_Neethling",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Emma Neethling",
+    "best_time_str": "01m:07s:840ms",
+    "best_time_sec": 67.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Amber-Rose_Berry",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Amber-Rose Berry",
+    "best_time_str": "01m:08s:340ms",
+    "best_time_sec": 68.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Rone_Joubert",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Rone Joubert",
+    "best_time_str": "01m:08s:470ms",
+    "best_time_sec": 68.47,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Mia_Krog",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Mia Krog",
+    "best_time_str": "01m:08s:490ms",
+    "best_time_sec": 68.49,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Layla_Nixon",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Layla Nixon",
+    "best_time_str": "01m:08s:760ms",
+    "best_time_sec": 68.76,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Jessie_Allott",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Jessie Allott",
+    "best_time_str": "01m:08s:910ms",
+    "best_time_sec": 68.91,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Zoe_Steyn",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "01m:09s:050ms",
+    "best_time_sec": 69.05,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Jesse_Leah_Laderach",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "01m:10s:560ms",
+    "best_time_sec": 70.56,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Jessica_Harcus",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Jessica Harcus",
+    "best_time_str": "01m:11s:330ms",
+    "best_time_sec": 71.33,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Erin_Langenhoven",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "01m:11s:640ms",
+    "best_time_sec": 71.64,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Miya_Krog",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Miya Krog",
+    "best_time_str": "01m:12s:460ms",
+    "best_time_sec": 72.46,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Casey_Bruwer",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "01m:12s:830ms",
+    "best_time_sec": 72.83,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_tow::Xanthe_Nagel",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "01m:13s:180ms",
+    "best_time_sec": 73.18,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Keira_van_Heerden",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "02m:35s:560ms",
+    "best_time_sec": 155.56,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Jessie_Allott",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Jessie Allott",
+    "best_time_str": "02m:42s:170ms",
+    "best_time_sec": 162.17,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Jesse_Leah_Laderach",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "02m:45s:250ms",
+    "best_time_sec": 165.25,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Kendra_Begley",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Kendra Begley",
+    "best_time_str": "02m:46s:130ms",
+    "best_time_sec": 166.13,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Erin_Langenhoven",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "02m:46s:660ms",
+    "best_time_sec": 166.66,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Zoe_Steyn",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "02m:47s:440ms",
+    "best_time_sec": 167.44,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Casey_Bruwer",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "02m:48s:730ms",
+    "best_time_sec": 168.73,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Alexa_Heldinger",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Alexa Heldinger",
+    "best_time_str": "02m:50s:620ms",
+    "best_time_sec": 170.62,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Xanthe_Nagel",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "02m:51s:360ms",
+    "best_time_sec": 171.36,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Isabella_Brooker",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Isabella Brooker",
+    "best_time_str": "02m:53s:390ms",
+    "best_time_sec": 173.39,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Miya_Krog",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Miya Krog",
+    "best_time_str": "02m:53s:610ms",
+    "best_time_sec": 173.61,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Rone_Joubert",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Rone Joubert",
+    "best_time_str": "02m:54s:100ms",
+    "best_time_sec": 174.1,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Hailey_Blewett",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Hailey Blewett",
+    "best_time_str": "02m:55s:120ms",
+    "best_time_sec": 175.12,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Alexa_Heldsinger",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Alexa Heldsinger",
+    "best_time_str": "02m:55s:810ms",
+    "best_time_sec": 175.81,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Layla_Nixon",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Layla Nixon",
+    "best_time_str": "02m:57s:230ms",
+    "best_time_sec": 177.23,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Mia_Krog",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Mia Krog",
+    "best_time_str": "02m:58s:000ms",
+    "best_time_sec": 178,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Katya_Bova-Olsen",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Katya Bova-Olsen",
+    "best_time_str": "02m:58s:060ms",
+    "best_time_sec": 178.06,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Emma_Neethling",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Emma Neethling",
+    "best_time_str": "02m:58s:530ms",
+    "best_time_sec": 178.53,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Amber-Rose_Berry",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Amber-Rose Berry",
+    "best_time_str": "03m:01s:030ms",
+    "best_time_sec": 181.03,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_super_lifesaver::Daniella_Harcus",
+    "division": "Youth Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Daniella Harcus",
+    "best_time_str": "03m:01s:840ms",
+    "best_time_sec": 181.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Keira_van_Heerden",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "01m:13s:550ms",
+    "best_time_sec": 73.55,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Jesse_Leah_Laderach",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "01m:18s:740ms",
+    "best_time_sec": 78.74,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Xanthe_Nagel",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "01m:19s:790ms",
+    "best_time_sec": 79.79,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Kendra_Begley",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Kendra Begley",
+    "best_time_str": "01m:20s:400ms",
+    "best_time_sec": 80.4,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Zoe_Steyn",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "01m:23s:710ms",
+    "best_time_sec": 83.71,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Jessie_Allott",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Jessie Allott",
+    "best_time_str": "01m:26s:350ms",
+    "best_time_sec": 86.35,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Casey_Bruwer",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "01m:26s:530ms",
+    "best_time_sec": 86.53,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Erin_Langenhoven",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "01m:26s:660ms",
+    "best_time_sec": 86.66,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Jemmah_Roman",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Jemmah Roman",
+    "best_time_str": "01m:26s:720ms",
+    "best_time_sec": 86.72,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Alexa_Heldinger",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Alexa Heldinger",
+    "best_time_str": "01m:26s:740ms",
+    "best_time_sec": 86.74,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Daniella_Harcus",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Daniella Harcus",
+    "best_time_str": "01m:27s:480ms",
+    "best_time_sec": 87.48,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Jessica_Harcus",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Jessica Harcus",
+    "best_time_str": "01m:27s:590ms",
+    "best_time_sec": 87.59,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Riziki_Magotsi",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Riziki Magotsi",
+    "best_time_str": "01m:28s:620ms",
+    "best_time_sec": 88.62,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Alexa_Heldsinger",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Alexa Heldsinger",
+    "best_time_str": "01m:29s:420ms",
+    "best_time_sec": 89.42,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Megan_Waters",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Megan Waters",
+    "best_time_str": "01m:29s:910ms",
+    "best_time_sec": 89.91,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_rescue_medley::Isabella_Brooker",
+    "division": "Youth Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Isabella Brooker",
+    "best_time_str": "01m:31s:110ms",
+    "best_time_sec": 91.11,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Keira_van_Heerden",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "02m:16s:140ms",
+    "best_time_sec": 136.14,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Myra_Viduya",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Myra Viduya",
+    "best_time_str": "02m:18s:000ms",
+    "best_time_sec": 138,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Sienna_Gous",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Sienna Gous",
+    "best_time_str": "02m:20s:230ms",
+    "best_time_sec": 140.23,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Morgan_Gous",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Morgan Gous",
+    "best_time_str": "02m:22s:480ms",
+    "best_time_sec": 142.48,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Jesse_Leah_Laderach",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "02m:23s:330ms",
+    "best_time_sec": 143.33,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Kendra_Begley",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Kendra Begley",
+    "best_time_str": "02m:25s:210ms",
+    "best_time_sec": 145.21,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Xanthe_Nagel",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "02m:28s:220ms",
+    "best_time_sec": 148.22,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Erin_Langenhoven",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "02m:28s:340ms",
+    "best_time_sec": 148.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Emma_Neethling",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Emma Neethling",
+    "best_time_str": "02m:29s:520ms",
+    "best_time_sec": 149.52,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Casey_Bruwer",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "02m:30s:820ms",
+    "best_time_sec": 150.82,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Jemmah_Roman",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Jemmah Roman",
+    "best_time_str": "02m:32s:980ms",
+    "best_time_sec": 152.98,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Alexa_Heldinger",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Alexa Heldinger",
+    "best_time_str": "02m:33s:690ms",
+    "best_time_sec": 153.69,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Mia_Krog",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Mia Krog",
+    "best_time_str": "02m:34s:860ms",
+    "best_time_sec": 154.86,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Riziki_Magotsi",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Riziki Magotsi",
+    "best_time_str": "02m:35s:030ms",
+    "best_time_sec": 155.03,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Hailey_Blewett",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Hailey Blewett",
+    "best_time_str": "02m:35s:620ms",
+    "best_time_sec": 155.62,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Katya_Bova-Olsen",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Katya Bova-Olsen",
+    "best_time_str": "02m:35s:680ms",
+    "best_time_sec": 155.68,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Caitlin_Rossiter",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Caitlin Rossiter",
+    "best_time_str": "02m:35s:800ms",
+    "best_time_sec": 155.8,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Sabella_Serdyn",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Sabella Serdyn",
+    "best_time_str": "02m:36s:410ms",
+    "best_time_sec": 156.41,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Isabella_Brooker",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Isabella Brooker",
+    "best_time_str": "02m:36s:420ms",
+    "best_time_sec": 156.42,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Reese_Noble",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Reese Noble",
+    "best_time_str": "02m:36s:730ms",
+    "best_time_sec": 156.73,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Zoe_Steyn",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "02m:37s:730ms",
+    "best_time_sec": 157.73,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Miya_Krog",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Miya Krog",
+    "best_time_str": "02m:37s:880ms",
+    "best_time_sec": 157.88,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Alexa_Heldsinger",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Alexa Heldsinger",
+    "best_time_str": "02m:37s:970ms",
+    "best_time_sec": 157.97,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::200m_obstacles::Jessie_Allott",
+    "division": "Youth Women",
+    "event_id": "200m_obstacles",
+    "event_name": "200m Obstacles",
+    "athlete": "Jessie Allott",
+    "best_time_str": "02m:38s:380ms",
+    "best_time_sec": 158.38,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Keira_van_Heerden",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "00m:54s:090ms",
+    "best_time_sec": 54.09,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Layla_Nixon",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Layla Nixon",
+    "best_time_str": "01m:00s:310ms",
+    "best_time_sec": 60.31,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Kendra_Begley",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Kendra Begley",
+    "best_time_str": "01m:01s:860ms",
+    "best_time_sec": 61.86,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Zoe_Steyn",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "01m:02s:580ms",
+    "best_time_sec": 62.58,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Casey_Bruwer",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "01m:02s:600ms",
+    "best_time_sec": 62.6,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Jessica_Harcus",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Jessica Harcus",
+    "best_time_str": "01m:03s:870ms",
+    "best_time_sec": 63.87,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Jessie_Allott",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Jessie Allott",
+    "best_time_str": "01m:03s:940ms",
+    "best_time_sec": 63.94,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Jesse_Leah_Laderach",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "01m:04s:070ms",
+    "best_time_sec": 64.07,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Mia_Krog",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Mia Krog",
+    "best_time_str": "01m:06s:150ms",
+    "best_time_sec": 66.15,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Amber-Rose_Berry",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Amber-Rose Berry",
+    "best_time_str": "01m:06s:280ms",
+    "best_time_sec": 66.28,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Rone_Joubert",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Rone Joubert",
+    "best_time_str": "01m:06s:660ms",
+    "best_time_sec": 66.66,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Erin_Langenhoven",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "01m:07s:520ms",
+    "best_time_sec": 67.52,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Isabella_Brooker",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Isabella Brooker",
+    "best_time_str": "01m:07s:620ms",
+    "best_time_sec": 67.62,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Sabrina_Krige",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Sabrina Krige",
+    "best_time_str": "01m:08s:090ms",
+    "best_time_sec": 68.09,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Xanthe_Nagel",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "01m:08s:210ms",
+    "best_time_sec": 68.21,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Isabella_Havemann",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Isabella Havemann",
+    "best_time_str": "01m:08s:250ms",
+    "best_time_sec": 68.25,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Miya_Krog",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Miya Krog",
+    "best_time_str": "01m:09s:040ms",
+    "best_time_sec": 69.04,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Daniella_Harcus",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Daniella Harcus",
+    "best_time_str": "01m:09s:110ms",
+    "best_time_sec": 69.11,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Shaylee_Powell",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Shaylee Powell",
+    "best_time_str": "01m:09s:560ms",
+    "best_time_sec": 69.56,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Emma_Neethling",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Emma Neethling",
+    "best_time_str": "01m:10s:360ms",
+    "best_time_sec": 70.36,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Youth_Women::100m_manikin_carry_with_fins::Cloe_Jewell",
+    "division": "Youth Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Cloe Jewell",
+    "best_time_str": "01m:10s:440ms",
+    "best_time_sec": 70.44,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Aiden_Bornman",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Aiden Bornman",
+    "best_time_str": "00m:30s:510ms",
+    "best_time_sec": 30.51,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Matthew_Pincente",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Matthew Pincente",
+    "best_time_str": "00m:30s:630ms",
+    "best_time_sec": 30.63,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Connor_Bagley",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Connor Bagley",
+    "best_time_str": "00m:31s:170ms",
+    "best_time_sec": 31.17,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Barjo_van_Niekerk",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Barjo van Niekerk",
+    "best_time_str": "00m:31s:200ms",
+    "best_time_sec": 31.2,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Bryce_Minderon",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Bryce Minderon",
+    "best_time_str": "00m:31s:450ms",
+    "best_time_sec": 31.45,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Fabian_Hermann",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Fabian Hermann",
+    "best_time_str": "00m:31s:960ms",
+    "best_time_sec": 31.96,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Mathew_Pincente",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Mathew Pincente",
+    "best_time_str": "00m:32s:380ms",
+    "best_time_sec": 32.38,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Hayden_Hemmens",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Hayden Hemmens",
+    "best_time_str": "00m:32s:430ms",
+    "best_time_sec": 32.43,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Wilan_Basson",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Wilan Basson",
+    "best_time_str": "00m:32s:730ms",
+    "best_time_sec": 32.73,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Ockert_van_Schalkwyk",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Ockert van Schalkwyk",
+    "best_time_str": "00m:32s:750ms",
+    "best_time_sec": 32.75,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Nicholas_Pretorius",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Nicholas Pretorius",
+    "best_time_str": "00m:32s:760ms",
+    "best_time_sec": 32.76,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Matthew_Brooker",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Matthew Brooker",
+    "best_time_str": "00m:32s:790ms",
+    "best_time_sec": 32.79,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Vaclav_Horak",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Vaclav Horak",
+    "best_time_str": "00m:33s:080ms",
+    "best_time_sec": 33.08,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Jan-Lukas_Van_der_Westhuizen",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Jan-Lukas Van der Westhuizen",
+    "best_time_str": "00m:33s:420ms",
+    "best_time_sec": 33.42,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::50m_manikin_carry::Lucca_Basson",
+    "division": "Open Men",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Lucca Basson",
+    "best_time_str": "00m:33s:540ms",
+    "best_time_sec": 33.54,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Aidan_Mills",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Aidan Mills",
+    "best_time_str": "00m:54s:370ms",
+    "best_time_sec": 54.37,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Wilan_Basson",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Wilan Basson",
+    "best_time_str": "00m:54s:500ms",
+    "best_time_sec": 54.5,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Ockert_van_Schalkwyk",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Ockert van Schalkwyk",
+    "best_time_str": "00m:55s:480ms",
+    "best_time_sec": 55.48,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Matthew_Brooker",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Matthew Brooker",
+    "best_time_str": "00m:56s:150ms",
+    "best_time_sec": 56.15,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Barjo_van_Niekerk",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Barjo van Niekerk",
+    "best_time_str": "00m:57s:220ms",
+    "best_time_sec": 57.22,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Johan_Moolman",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Johan Moolman",
+    "best_time_str": "00m:58s:030ms",
+    "best_time_sec": 58.03,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Connor_Bagley",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Connor Bagley",
+    "best_time_str": "00m:58s:050ms",
+    "best_time_sec": 58.05,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Daniel_Miller",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Daniel Miller",
+    "best_time_str": "00m:58s:140ms",
+    "best_time_sec": 58.14,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Len-Douglas_Mac_Kay",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Len-Douglas Mac Kay",
+    "best_time_str": "00m:58s:440ms",
+    "best_time_sec": 58.44,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Vaclav_Horak",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Vaclav Horak",
+    "best_time_str": "00m:58s:810ms",
+    "best_time_sec": 58.81,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_manikin_tow::Aiden_Bornman",
+    "division": "Open Men",
+    "event_id": "100m_manikin_tow",
+    "event_name": "100m Manikin Tow",
+    "athlete": "Aiden Bornman",
+    "best_time_str": "00m:58s:950ms",
+    "best_time_sec": 58.95,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Matthew_Brooker",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Matthew Brooker",
+    "best_time_str": "02m:13s:600ms",
+    "best_time_sec": 133.6,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Fabian_Hermann",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Fabian Hermann",
+    "best_time_str": "02m:17s:650ms",
+    "best_time_sec": 137.65,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Ockert_van_Schalkwyk",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Ockert van Schalkwyk",
+    "best_time_str": "02m:17s:740ms",
+    "best_time_sec": 137.74,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Wilan_Basson",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Wilan Basson",
+    "best_time_str": "02m:17s:910ms",
+    "best_time_sec": 137.91,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Daniel_Miller",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Daniel Miller",
+    "best_time_str": "02m:19s:840ms",
+    "best_time_sec": 139.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Jack_Allott",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Jack Allott",
+    "best_time_str": "02m:21s:430ms",
+    "best_time_sec": 141.43,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Len-Douglas_Mac_Kay",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Len-Douglas Mac Kay",
+    "best_time_str": "02m:21s:550ms",
+    "best_time_sec": 141.55,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Neil_Holtzhausen",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Neil Holtzhausen",
+    "best_time_str": "02m:22s:840ms",
+    "best_time_sec": 142.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Johan_Moolman",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Johan Moolman",
+    "best_time_str": "02m:22s:990ms",
+    "best_time_sec": 142.99,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Aidan_Mills",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Aidan Mills",
+    "best_time_str": "02m:23s:500ms",
+    "best_time_sec": 143.5,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Aiden_Bornman",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Aiden Bornman",
+    "best_time_str": "02m:23s:580ms",
+    "best_time_sec": 143.58,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::Hayden_Hemmens",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Hayden Hemmens",
+    "best_time_str": "02m:25s:150ms",
+    "best_time_sec": 145.15,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_super_lifesaver::So_Komatsu",
+    "division": "Open Men",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "So Komatsu",
+    "best_time_str": "02m:25s:960ms",
+    "best_time_sec": 145.96,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Hayden_Hemmens",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Hayden Hemmens",
+    "best_time_str": "02m:00s:640ms",
+    "best_time_sec": 120.64,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Aiden_Bornman",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Aiden Bornman",
+    "best_time_str": "02m:01s:770ms",
+    "best_time_sec": 121.77,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Nicholas_Pretorius",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Nicholas Pretorius",
+    "best_time_str": "02m:01s:950ms",
+    "best_time_sec": 121.95,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Bryce_Minderon",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Bryce Minderon",
+    "best_time_str": "02m:05s:750ms",
+    "best_time_sec": 125.75,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Johan_Moolman",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Johan Moolman",
+    "best_time_str": "02m:06s:840ms",
+    "best_time_sec": 126.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::So_Komatsu",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "So Komatsu",
+    "best_time_str": "02m:07s:850ms",
+    "best_time_sec": 127.85,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Matthew_Brooker",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Matthew Brooker",
+    "best_time_str": "02m:08s:390ms",
+    "best_time_sec": 128.39,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Troy_McWilliam",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Troy McWilliam",
+    "best_time_str": "02m:08s:570ms",
+    "best_time_sec": 128.57,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Connor_Bagley",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Connor Bagley",
+    "best_time_str": "02m:08s:870ms",
+    "best_time_sec": 128.87,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Jack_Allott",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Jack Allott",
+    "best_time_str": "02m:09s:030ms",
+    "best_time_sec": 129.03,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Fabian_Hermann",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Fabian Hermann",
+    "best_time_str": "02m:09s:160ms",
+    "best_time_sec": 129.16,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Nicholas_Taylor",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Nicholas Taylor",
+    "best_time_str": "02m:10s:230ms",
+    "best_time_sec": 130.23,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Vaclav_Horak",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Vaclav Horak",
+    "best_time_str": "02m:12s:730ms",
+    "best_time_sec": 132.73,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::200m_obstacle::Neil_Holtzhausen",
+    "division": "Open Men",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Neil Holtzhausen",
+    "best_time_str": "02m:12s:850ms",
+    "best_time_sec": 132.85,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Aiden_Bornman",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Aiden Bornman",
+    "best_time_str": "01m:05s:260ms",
+    "best_time_sec": 65.26,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Nicholas_Pretorius",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Nicholas Pretorius",
+    "best_time_str": "01m:06s:280ms",
+    "best_time_sec": 66.28,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Hayden_Hemmens",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Hayden Hemmens",
+    "best_time_str": "01m:06s:340ms",
+    "best_time_sec": 66.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Barjo_van_Niekerk",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Barjo van Niekerk",
+    "best_time_str": "01m:06s:370ms",
+    "best_time_sec": 66.37,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Bryce_Minderon",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Bryce Minderon",
+    "best_time_str": "01m:06s:420ms",
+    "best_time_sec": 66.42,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Matthew_Pincente",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Matthew Pincente",
+    "best_time_str": "01m:06s:870ms",
+    "best_time_sec": 66.87,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Matthew_Brooker",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Matthew Brooker",
+    "best_time_str": "01m:07s:330ms",
+    "best_time_sec": 67.33,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Men::100m_rescue_medley::Connor_Bagley",
+    "division": "Open Men",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Connor Bagley",
+    "best_time_str": "01m:08s:070ms",
+    "best_time_sec": 68.07,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "00m:36s:180ms",
+    "best_time_sec": 36.18,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Anna-Fiona_Volz",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Anna-Fiona Volz",
+    "best_time_str": "00m:37s:050ms",
+    "best_time_sec": 37.05,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "00m:37s:300ms",
+    "best_time_sec": 37.3,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Savannah_Voigt",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Savannah Voigt",
+    "best_time_str": "00m:38s:010ms",
+    "best_time_sec": 38.01,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Jesse_Leah_Laderach",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "00m:38s:200ms",
+    "best_time_sec": 38.2,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Kendra_Begley",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Kendra Begley",
+    "best_time_str": "00m:38s:340ms",
+    "best_time_sec": 38.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Amica_De_Jager",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Amica De Jager",
+    "best_time_str": "00m:38s:470ms",
+    "best_time_sec": 38.47,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Sasha-Lee_Hemmens",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Sasha-Lee Hemmens",
+    "best_time_str": "00m:39s:010ms",
+    "best_time_sec": 39.01,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::50m_manikin_carry::Nicola_Harcus",
+    "division": "Open Women",
+    "event_id": "50m_manikin_carry",
+    "event_name": "50m Manikin Carry",
+    "athlete": "Nicola Harcus",
+    "best_time_str": "00m:39s:290ms",
+    "best_time_sec": 39.29,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Anna-Fiona_Volz",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Anna-Fiona Volz",
+    "best_time_str": "01m:02s:410ms",
+    "best_time_sec": 62.41,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "01m:03s:100ms",
+    "best_time_sec": 63.1,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "01m:04s:870ms",
+    "best_time_sec": 64.87,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Amica_De_Jager",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Amica De Jager",
+    "best_time_str": "01m:05s:530ms",
+    "best_time_sec": 65.53,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Tanya_Pieterse",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Tanya Pieterse",
+    "best_time_str": "01m:05s:570ms",
+    "best_time_sec": 65.57,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Kendra_Begley",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Kendra Begley",
+    "best_time_str": "01m:05s:780ms",
+    "best_time_sec": 65.78,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Savannah_Voigt",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Savannah Voigt",
+    "best_time_str": "01m:06s:250ms",
+    "best_time_sec": 66.25,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Sasha-Lee_Hemmens",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Sasha-Lee Hemmens",
+    "best_time_str": "01m:06s:900ms",
+    "best_time_sec": 66.9,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Alke_Stopforth",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Alke Stopforth",
+    "best_time_str": "01m:06s:930ms",
+    "best_time_sec": 66.93,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Nicola_Harcus",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Nicola Harcus",
+    "best_time_str": "01m:07s:280ms",
+    "best_time_sec": 67.28,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Michelle_Lamprecht",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Michelle Lamprecht",
+    "best_time_str": "01m:07s:640ms",
+    "best_time_sec": 67.64,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_tow_with_fins::Emma_Neethling",
+    "division": "Open Women",
+    "event_id": "100m_manikin_tow_with_fins",
+    "event_name": "100m Manikin Tow with Fins",
+    "athlete": "Emma Neethling",
+    "best_time_str": "01m:07s:840ms",
+    "best_time_sec": 67.84,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Yvonne_Prehn",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Yvonne Prehn",
+    "best_time_str": "02m:24s:450ms",
+    "best_time_sec": 144.45,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Nicola_Harcus",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Nicola Harcus",
+    "best_time_str": "02m:33s:340ms",
+    "best_time_sec": 153.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Anna-Fiona_Volz",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Anna-Fiona Volz",
+    "best_time_str": "02m:33s:630ms",
+    "best_time_sec": 153.63,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "02m:35s:560ms",
+    "best_time_sec": 155.56,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Sasha-Lee_Hemmens",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Sasha-Lee Hemmens",
+    "best_time_str": "02m:36s:790ms",
+    "best_time_sec": 156.79,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "02m:40s:210ms",
+    "best_time_sec": 160.21,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Amica_De_Jager",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Amica De Jager",
+    "best_time_str": "02m:40s:710ms",
+    "best_time_sec": 160.71,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Jessie_Allott",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Jessie Allott",
+    "best_time_str": "02m:42s:170ms",
+    "best_time_sec": 162.17,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Jesse_Leah_Laderach",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "02m:45s:250ms",
+    "best_time_sec": 165.25,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Kendra_Begley",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Kendra Begley",
+    "best_time_str": "02m:46s:130ms",
+    "best_time_sec": 166.13,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Erin_Langenhoven",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "02m:46s:660ms",
+    "best_time_sec": 166.66,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_super_lifesaver::Zoe_Steyn",
+    "division": "Open Women",
+    "event_id": "200m_super_lifesaver",
+    "event_name": "200m Super Lifesaver",
+    "athlete": "Zoe Steyn",
+    "best_time_str": "02m:47s:440ms",
+    "best_time_sec": 167.44,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "02m:16s:140ms",
+    "best_time_sec": 136.14,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Nicola_Harcus",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Nicola Harcus",
+    "best_time_str": "02m:18s:420ms",
+    "best_time_sec": 138.42,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Sasha-Lee_Hemmens",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Sasha-Lee Hemmens",
+    "best_time_str": "02m:18s:490ms",
+    "best_time_sec": 138.49,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "02m:22s:480ms",
+    "best_time_sec": 142.48,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Jesse_Leah_Laderach",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "02m:23s:330ms",
+    "best_time_sec": 143.33,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Amica_De_Jager",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Amica De Jager",
+    "best_time_str": "02m:23s:380ms",
+    "best_time_sec": 143.38,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Kendra_Begley",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Kendra Begley",
+    "best_time_str": "02m:25s:210ms",
+    "best_time_sec": 145.21,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Xanthe_Nagel",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "02m:28s:220ms",
+    "best_time_sec": 148.22,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Erin_Langenhoven",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Erin Langenhoven",
+    "best_time_str": "02m:28s:340ms",
+    "best_time_sec": 148.34,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Emma_Neethling",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Emma Neethling",
+    "best_time_str": "02m:29s:520ms",
+    "best_time_sec": 149.52,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Nicola_Herbst",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Nicola Herbst",
+    "best_time_str": "02m:29s:750ms",
+    "best_time_sec": 149.75,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Casey_Bruwer",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Casey Bruwer",
+    "best_time_str": "02m:30s:820ms",
+    "best_time_sec": 150.82,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::200m_obstacle::Jemmah_Roman",
+    "division": "Open Women",
+    "event_id": "200m_obstacle",
+    "event_name": "200m Obstacle",
+    "athlete": "Jemmah Roman",
+    "best_time_str": "02m:32s:980ms",
+    "best_time_sec": 152.98,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "01m:13s:550ms",
+    "best_time_sec": 73.55,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Anna-Fiona_Volz",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Anna-Fiona Volz",
+    "best_time_str": "01m:15s:520ms",
+    "best_time_sec": 75.52,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Savannah_Voigt",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Savannah Voigt",
+    "best_time_str": "01m:17s:640ms",
+    "best_time_sec": 77.64,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "01m:18s:060ms",
+    "best_time_sec": 78.06,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Jesse_Leah_Laderach",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Jesse Leah Laderach",
+    "best_time_str": "01m:18s:740ms",
+    "best_time_sec": 78.74,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Nicola_Harcus",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Nicola Harcus",
+    "best_time_str": "01m:19s:370ms",
+    "best_time_sec": 79.37,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Xanthe_Nagel",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Xanthe Nagel",
+    "best_time_str": "01m:19s:790ms",
+    "best_time_sec": 79.79,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_rescue_medley::Kendra_Begley",
+    "division": "Open Women",
+    "event_id": "100m_rescue_medley",
+    "event_name": "100m Rescue Medley",
+    "athlete": "Kendra Begley",
+    "best_time_str": "01m:20s:400ms",
+    "best_time_sec": 80.4,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_carry_with_fins::Keira_van_Heerden",
+    "division": "Open Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Keira van Heerden",
+    "best_time_str": "00m:54s:090ms",
+    "best_time_sec": 54.09,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_carry_with_fins::Kendra_du_Toit",
+    "division": "Open Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Kendra du Toit",
+    "best_time_str": "00m:56s:450ms",
+    "best_time_sec": 56.45,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_carry_with_fins::Savannah_Voigt",
+    "division": "Open Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Savannah Voigt",
+    "best_time_str": "00m:57s:660ms",
+    "best_time_sec": 57.66,
+    "club_code": "RSA"
+  },
+  {
+    "id": "Open_Women::100m_manikin_carry_with_fins::Layla_Nixon",
+    "division": "Open Women",
+    "event_id": "100m_manikin_carry_with_fins",
+    "event_name": "100m Manikin Carry with Fins",
+    "athlete": "Layla Nixon",
+    "best_time_str": "01m:00s:310ms",
+    "best_time_sec": 60.31,
+    "club_code": "RSA"
   }
 ]

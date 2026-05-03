@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import json; d=json.loads\\(open\\('c:/Users/bryan/source/repos/whatif/simulator.py'\\).read\\(\\)\\); print\\(d\\)\")",
+      "Bash(python -m pytest tests/test_simulator.py::test_identity_no_candidates_matches_baseline -v)"
     ]
   }
 }
