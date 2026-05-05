@@ -1,6 +1,12 @@
 [
   {
     "division": "Open Men",
+    "event_id": "100m_manikin_carry_with_fins",
+    "name": "100m Manikin Carry with Fins",
+    "simulated": true
+  },
+  {
+    "division": "Open Men",
     "event_id": "100m_manikin_tow",
     "name": "100m Manikin Tow",
     "simulated": true
