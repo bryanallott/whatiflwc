@@ -13,8 +13,8 @@
   },
   {
     "division": "Open Men",
-    "event_id": "200m_obstacle",
-    "name": "200m Obstacle",
+    "event_id": "200m_obstacles",
+    "name": "200m Obstacles",
     "simulated": true
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "division": "Open Women",
-    "event_id": "200m_obstacle",
-    "name": "200m Obstacle",
+    "event_id": "200m_obstacles",
+    "name": "200m Obstacles",
     "simulated": true
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "division": "Youth Men",
-    "event_id": "100m_medley",
-    "name": "100m Medley",
+    "event_id": "100m_rescue_medley",
+    "name": "100m Rescue Medley",
     "simulated": true
   },
   {

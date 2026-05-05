@@ -21,11 +21,9 @@ _AGE_TO_DIVISION = {
 def _event_name_to_id(csv_event, division):
     normalized = csv_event.lower().replace(' ', '_')
     aliases = {
-        ("Youth Men",   "100m_rescue_medley"):         "100m_medley",
-        ("Youth Men",   "100m_manikin_tow_with_fins"): "100m_manikin_tow",
-        ("Youth Women", "100m_manikin_tow_with_fins"): "100m_manikin_tow",
-        ("Open Men",    "200m_obstacles"):              "200m_obstacle",
-        ("Open Women",  "200m_obstacles"):              "200m_obstacle",
+        ("Youth Men",  "100m_manikin_tow_with_fins"): "100m_manikin_tow",
+        ("Youth Women","100m_manikin_tow_with_fins"): "100m_manikin_tow",
+        ("Open Men",   "100m_manikin_tow_with_fins"): "100m_manikin_tow",
     }
     return aliases.get((division, normalized), normalized)
 
