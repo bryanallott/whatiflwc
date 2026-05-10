@@ -65,7 +65,14 @@ def load_athletes():
     result = []
     for (division, event_id), entries in buckets.items():
         entries.sort(key=lambda x: x["time_ms"])
-        for entry in entries[:15]:
+        seen = {}
+        deduped = []
+        for e in entries:
+            name = e["athlete"]
+            if name not in seen:
+                seen[name] = True
+                deduped.append(e)
+        for entry in deduped[:15]:
             athlete  = entry["athlete"]
             time_ms  = entry["time_ms"]
             result.append({
